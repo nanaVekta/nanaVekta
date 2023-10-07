@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Julius Kyere Asante, a seasoned software engineer with more than six years of experience specializing in full-stack development. I hold a degree in computer engineering, and my expertise spans a range of technologies, including Angular, React, Vue.js, Node.js, and Laravel. Throughout my career, I've had the privilege of working on diverse projects, from building robust web applications to optimizing backend systems. I'm passionate about delivering high-quality solutions and staying up-to-date with the latest industry trends to provide the best value to my team and clients
+
+- 📫 How to reach me: asantejuliuskyere@gmail.com
+
+
 <!--
 **nanaVekta/nanaVekta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
